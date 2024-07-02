@@ -33,9 +33,9 @@ h1{
     width: 12vh;
     border-radius: 2vh;
     border: none;
-    color: rgb(103, 219, 15);
+    color: rgb(179, 183, 183);
     font-size: 50px;
-    box-shadow: 5px 5px 5px 5px rgb(0,0, 8,0.5);
+    box-shadow: 5px 5px 5px 5px rgb(0,0, 8,0.3);
 }
 
 .reset{
@@ -48,17 +48,18 @@ h1{
 }
 
 #winner{
-    font-size: 3vh;
-    color: rgb(244, 3, 19);
+    font-size: 4vh;
+    padding: 9px;
+    color: rgb(0, 11, 12);
 }
 #newbtn{
     font-size: 3vh;
-    background-color: rgb(205, 0, 0);
+    background-color: rgb(157, 135, 165);
     border-radius: 1vh;
     border: none;
     height: 8vh;
     width: 20vh;
-    color:white;
+    color:rgb(15, 1, 1);
 }
 .msgcontainer{
     height: 20vh;
